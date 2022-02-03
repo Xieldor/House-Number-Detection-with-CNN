@@ -65,6 +65,7 @@ The zip file has the structure as:
 		- README.md
 
 ## 3 How to run the code
+
 	1. Make sure you have the correct cv_proj.yml that I provided.
 	2. Make sure there are five input images in the input_images folder.
 	3. Make sure you have the digit_detection_model.h5 file and the digit_classification_model.h5 file
@@ -73,3 +74,15 @@ The zip file has the structure as:
 	4. Activate the environment run the command:
 	   conda activate cv_proj
 	5. Now you can use python to run the run.py file and check the output images in the graded_images folder.
+	
+## 4 Output
+
+<img src="graded_images/1.png" width=40% height=40% />
+
+<img src="graded_images/2.png" width=40% height=40% />
+
+<img src="graded_images/3.png" width=40% height=40% />
+
+<img src="graded_images/4.png" width=40% height=40% />
+
+<img src="graded_images/5.png" width=40% height=40% />
